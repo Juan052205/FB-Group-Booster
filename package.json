@@ -1,0 +1,1 @@
+{"name":"fb-group-booster","version":"1.0.0","description":"App de escritorio con Electron y React para FB Group Booster","main":"main.js","scripts":{"start":"electron .","build":"echo 'Agrega aquí tu comando de build de React si lo necesitas'"},"author":"Juan052205","license":"MIT","dependencies":{"electron":"^29.0.0"}}
